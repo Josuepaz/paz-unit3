@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Unit 3 project</title>
+
+</head>
+    <body>
+   <header>
+<h1> My Opinion </h1>
+ <header>
+ <p> Now that I have told you what the Harry Potter books/movies are, I am going to tell you
+exactly what I think. Personally I think it is the best series of movies ever created in any
+type of genre 
